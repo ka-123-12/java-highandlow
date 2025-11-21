@@ -37,7 +37,7 @@ javac -d out src/*.java
 java -cp out Main
 
 ## スクリーンショット
-[ゲーム　スクリーンショット](ハイアンドロー＿Java/png)
+[ゲーム　スクリーンショット](ハイアンドロー＿Java.png)
 
 ### GUI版
 - `Main` クラスを実行するとウィンドウが表示されます
